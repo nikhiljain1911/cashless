@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285464226400",
+    "firebase_url": "https://cashless-df271.firebaseio.com",
+    "project_id": "cashless-df271",
+    "storage_bucket": "cashless-df271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285464226400:android:ad8d465d92bd43e4dd3105",
+        "android_client_info": {
+          "package_name": "com.example.cashless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285464226400-d2p1mdno0efmla93h3ltmv6mbt8apfio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOqBx-yz37b6FEOobWAlS0Qqdt7RgUU10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285464226400-d2p1mdno0efmla93h3ltmv6mbt8apfio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
